@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj": {}
+  },
+  "projects": {
+    "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj",
+        "projectName": "CoreBusiness",
+        "projectPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj",
+        "projectName": "Plugins.DataStore.InMemory",
+        "projectPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCases.csproj": {
+                "projectPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCases.csproj",
+        "projectName": "UseCases",
+        "projectPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\UseCases.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj": {
+                "projectPath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

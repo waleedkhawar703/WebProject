@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "inwr5L6Wngbic7PhoKbONX1WM/qeGe1kjwLltZEsI8qj+j6ZAhZmLHs+iCvLO3psyoH0JtIaARE5rR3TmKJu0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

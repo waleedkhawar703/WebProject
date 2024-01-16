@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbsxJB+WU5jM3yZtLu5Jh/ELLfn0rtJPQmoN8RWpY68RPor+yc/4kNn+ik+w8r8OdvTA5BSLikfwMp8cDblZCg==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Uni Work\\Web Engineering\\Supermarket_Management_System\\SupermarketManagement\\Plugins.DataStore.InMemory\\Plugins.DataStore.InMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
